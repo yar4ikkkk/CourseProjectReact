@@ -1,0 +1,36 @@
+.product-card--single {
+  height: 79vh;
+  margin: 0 auto;
+  width: 40%;
+
+  .product-card__img {
+    padding-bottom: 40%;
+  }
+}
+
+.single-product {
+  padding-bottom: 20px;
+  height: 100vh;
+  background-color: #292929;
+}
+
+.single-card__wr {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-gap: 0 50px;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.single-card__price {
+  color: #2C2C2C;
+  font-size: 2.8rem;
+  font-weight: 700;
+}
+
+.single-card__description {
+  font-weight: 300;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  color: #2C2C2C;
+}

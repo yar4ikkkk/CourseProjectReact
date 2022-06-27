@@ -1,0 +1,874 @@
+{
+    "products": [{
+            "id": "jyruf8bbch5gcafqky",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/221234858.jpg"],
+            "title": "Apple iPhone 13 Pro Max 1TB (Gold)",
+            "price": 1619,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "apple",
+            "description": "Великий, потужний, яскравий.. Можна підібрати безліч особливих слів, та навіть вони не зможуть сповна передати всю крутість найстаршого флагмана від Apple iPhone 13 Pro Max."
+        },
+        {
+            "id": "avkp2becrdsm1ftzwl",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/253281773.jpg"],
+            "title": "Samsung Galaxy S22 Ultra 12/512 GB Phantom White",
+            "price": 1592,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "samsung",
+            "description": "Зустрічайте Galaxy S22 Ultra з можливостями Note. Витончена полірована рамка, що оперізує корпус із поверхнею, що виступає, додає симетричної елегантності. А витягнутий у лінію блок камер, акцентований однаковими кільцями об’єктивів, наче витає над задньою кришкою."
+        }, {
+            "id": "xsyrgdle6nvysa772p",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/201676539.jpg"],
+            "title": "Samsung Galaxy Fold3 12/256 GB Phantom Silver",
+            "price": 1571,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "samsung",
+            "description": "Інтерфейс One UI забезпечує інтуїтивну взаємодію на кшталт ПК для опанування збільшеного простору. Ваші улюблені додатки тепер оптимізовано для максимально ефективного використання площі екрана Galaxy Z Fold3 5G, аби ви могли бачити якомога більше інформації одночасно."
+        }, {
+            "id": "l5i7i9ucv9dxohowfe",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/221261927.jpg"],
+            "title": "Apple iPhone 12 Pro Max 256GB (Graphite)",
+            "price": 1269,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "apple",
+            "description": "Розробники Apple прагнули виготовити iPhone 12 Pro Max на основі високоякісних, глянцевих матеріалів, поряд з широким арсеналом можливостей камери, подвоєним базовим об’ємом стартового сховища й значною місткістю акумулятора. Тому, якщо маєте потребу в професійному широкоформатному помічникові, купити iPhone 12 Pro Max — найкраще рішення!"
+        }, {
+            "id": "kbuejjs7ow3gj6owq0",
+            "images": ["https://istudio.ua/upload/iblock/7b3/iphone12-pro-256-gb-pacific-blue.png"],
+            "title": "Apple iPhone 12 Pro 256GB (Pacific Blue)",
+            "price": 1019,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "apple",
+            "description": "Купити iPhone 12 Pro — означає отримати флагманський смартфон Apple високого класу з підтримкою 5G, системою потрійного фільмування, сканером LiDAR, а також оновленим зовнішнім дизайном і найпродуктивнішим чипом А14 Bionic!"
+        }, {
+            "id": "14j92gegvqj4ra0esh",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/117131973.jpg"],
+            "title": "Xiaomi Mi 10 Pro 8/256GB Alpine White",
+            "price": 961,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "xiaomi",
+            "description": "Xiaomi Mi 10 Pro отримав AMOLED-дисплей із частотою оновлення 90 Гц і роздільною здатністю 2340×1080 пікселів. Діагональ дисплея становить 6.67 дюйма."
+        }, {
+            "id": "paet1nkj715gk604r0",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/177882445.jpg"],
+            "title": "Xiaomi Mi 11i 8/256 GB Cosmic Black",
+            "price": 652,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "xiaomi",
+            "description": "Xiaomi Mi 11i укладений в супертонкий корпус товщиною всього 7.8 мм. Плавні лінії і матова текстура задньої панелі надають смартфону елегантний вигляд. Три доступних кольори дозволять вам зробити максимально правильний вибір."
+        }, {
+            "id": "0w1xbkkzyvdvth112b",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/220744233.jpg"],
+            "title": "Xiaomi 11 Lite 5G NE 8/128 GB Truffle Black",
+            "price": 385,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "xiaomi",
+            "description": "Основна камера 11 Lite складається з трьох датчиків зображення, включно з головним модулем із роздільною здатністю 64 МП. Відчуйте на власному досвіді, що означає новий рівень мобільної фотографії, і робіть професійні знімки одним натисненням."
+        }, {
+            "id": "2slodo0334670ujs94",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/37389483.jpg"],
+            "title": "iPhone XR 128GB (White)",
+            "price": 559,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "apple",
+            "description": "iPhone XR — це альтернативна заміна iPhone X, оскільки останній знятий із виробництва. При цьому у нього є значні переваги у порівнянні з десяткою, проте і без мінусів не обійшлось. Які ж мінуси та плюси в новенького iPhone XR? Про це дізнаємося з тексту нижче."
+        }, {
+            "id": "enkawd52lhanhtjebr",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/253281357.jpg"],
+            "title": "Samsung Galaxy S22 Plus 8/256 GB Phantom Black",
+            "price": 1217,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "samsung",
+            "description": "Тонкі рамки плавно формують симетричну відполіровану рамку, яка оточує великий збалансований екран. Як кінцевий штрих монохромний корпус камери оточує лінійну систему камери. Все має дуже гарний вигляд. "
+        }, {
+            "id": "8yu7j64b04d4bo703k",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/37399220.jpg"],
+            "title": "Apple iPhone 11 64GB (Black)",
+            "price": 599,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "apple",
+            "description": "Новий Apple iPhone 11 — це прямий послідовник унікального iPhone XR. Розкішні кольори, автономність високого рівня, оновлені модулі основної та фронтальної камери, потужний та швидкий процесор. Любов з першого погляду і першого дотику! Пропонуємо ближче познайомитись з першим серед смартфонів Apple 2019 року."
+        }, {
+            "id": "clyhmes32z31yxmpem",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/259453449.jpg"],
+            "title": "Apple iPhone SE 128GB (PRODUCT RED) 2022",
+            "price": 519,
+            "category": "smartphones",
+            "isWished": false,
+            "brand": "apple",
+            "description": "Розробники з Купертіно на цьогорічній весняній презентації показали не лише кілька свіжих релізів, а й чергове вдосконалення бюджетного “старого знайомого” — Apple iPhone SE 3. Вкотре виникає запитання: для кого і для чого Apple в черговий раз перевидає дану модель?"
+        }, {
+            "id": "5ds3eauh30g34rmssj",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/173884176.jpg"],
+            "title": "Apple iPad Pro 12.9\" M1 Wi-Fi + Cellular 2 TB Silver",
+            "price": 2885,
+            "category": "tablets",
+            "isWished": false,
+            "brand": "apple",
+            "description": "З 8-ядерним центральним процесором у чипі M1 продуктивність підвищується до 50%. А 8-ядерний графічний процесор збільшує швидкість графіки до 40%. Це означає, що на iPad Pro можна створювати складні моделі з доповненою реальністю, грати в ігри з графікою консольного рівня й високою частотою оновлення кадрів і робити багато чого іншого."
+        }, {
+            "id": "8evz6ckmy8x8t3j1sd",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/220379352.jpg"],
+            "title": "Xiaomi Mi Pad 5 Wi-Fi 6/128 GB Cosmic Gray",
+            "price": 371,
+            "category": "tablets",
+            "isWished": false,
+            "brand": "xiaomi",
+            "description": "Оцініть яскраві кольори 11\" дисплея Mi Pad 5. Приголомшливе кольоропередавання на великому екрані планшета дає змогу побачити найдрібніші деталі, а неймовірний звук посилить кінематографічне враження. Динаміки з підтримкою технології Dolby Atmos створюють захопливий об'ємний звук, щоб ви опинилися в центрі подій."
+        }, {
+            "id": "vuks7anmgqhey44ysg",
+            "images": ["https://hotline.ua/img/tx/276/2765727335.jpg"],
+            "title": "Apple iPad Pro 12.9 2021, 128GB, Space Gray, Wi-Fi",
+            "price": 1081,
+            "category": "tablets",
+            "isWished": false,
+            "brand": "apple",
+            "description": "Нове покоління планшетів Apple iPad Pro 12.9'' представили на весняній презентації у 2021 році. Як завжди стильний і лаконічний дизайн, розкішний екран, чіткі камери, масивний звук та висококласні аксесуари — лінійка для професіоналів завжди на висоті. Планшети від творців з Купертіно працюватимуть на основі фірмового чіпа Apple M1, що відкриває нові горизонти продуктивності, ефективності та потужності. Ви готові до роботи на ультрашвидкості?"
+        }, {
+            "id": "jkha3i9s17vxysmxkn",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/268836151.jpg"],
+            "title": "ASUS Zenpad Z8 2/16GB WiFi Black",
+            "price": 152,
+            "category": "tablets",
+            "isWished": false,
+            "brand": "asus",
+            "description": "Чудовий планшет на рівні з Mi Pad 4, але за набагато приємнішою ціною. Потужне залізо, стильний, сучасний та акуратний дизайн, чудовий екран, чудова швидкодія – ідеальний варіант за співвідношенням ціна-якості від іменитого бренду Asus!"
+        }, {
+            "id": "v08dbntndcl0pk3r2j",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/194432978.jpg"],
+            "title": "Samsung Galaxy Tab S7 FE LTE 64 GB Black",
+            "price": 572,
+            "category": "tablets",
+            "isWished": false,
+            "brand": "samsung",
+            "description": "Завдяки оснащенню високопродуктивним процесором Snapdragon 750G відтворення відео й проходження ігор на Galaxy Tab S7 FE відбувається плавно та швидко. Ви можете одночасно виконувати кілька завдань і запускати до трьох програм. Якщо ви використовуватимете microSD card, то отримаєте понад 1 ТБ. Отож, ваші важливі файли завжди будуть під рукою."
+        }, {
+            "id": "pleu188a8ij0peqdby",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/269419672.jpg"],
+            "title": "Asus ZenPad S 8.0 P01MA",
+            "price": 192,
+            "category": "tablets",
+            "isWished": false,
+            "brand": "asus",
+            "description": "ASUS ZenPad S 8.0 - сучасний планшет і один з найбільш яскравих представників планшетів з сімейства ZenPad від ASUS. Дана модель оснащена 8-дюймовим дисплеєм, виконаним за технологією IPS з роздільною здатністю 2048x1536. Такий дисплей відмінно підійде для серфінгу в інтернеті і читання книг."
+        }, {
+            "id": "ci0q634ou8kr9kjkqv",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/269871110.jpg"],
+            "title": "Монітор 27\" Dell S2722QC (210-BBRQ) 8-Bit+FRC / USB Type-C Power Delivery 65W",
+            "price": 14999,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "ci0q634ou8kr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/168721089.jpg", "https://i1.rozetka.ua/promotions/constructors/2074/2074368.png"],
+            "title": "Монитор 24.5\" Asus TUF Gaming VG259QR (90LM0530-B03370)",
+            "price": 14200,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "fkoq4doui78kr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/11445215.jpg"],
+            "title": "Монитор 21.5\" Asus VZ229HE (90LM02P0-B02670)",
+            "price": 3500,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "fu1bsjhago16vxyv6z",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/106681909.jpg"],
+            "title": "Монитор 28\" Samsung LU28R550",
+            "price": 285,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "samsung"
+        }, {
+            "id": "58oqxon1iuuculrnkj",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/106670112.jpg"],
+            "title": "Монитор 31.5\" Samsung Odyssey G7 C32G75TQSI Black",
+            "price": 528,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "samsung"
+        }, {
+            "id": "yqlvhrorth2txzx88j",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/250048804.jpg"],
+            "title": "Монитор 49\" Samsung Odyssey Neo G9 S49AG95",
+            "price": 1714,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "samsung"
+        }, {
+            "id": "93nmu5dyv9ckr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/176308948.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/176308949.jpg", "https://i1.rozetka.ua/promotions/constructors/2074/2074368.png"],
+            "title": "Монитор 23.8\" Asus TUF Gaming VG249Q1A (90LM06J1-B01170) + Asus TUF M3 USB (90MP01J0-B0UA00) у подарунок!",
+            "price": 6500,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "612cw75a1yfkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/45618019.jpg"],
+            "title": "Монитор 18.5\" Asus VS197DE (90LMF1001T02201C)",
+            "price": 2700,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "giqcvwplkl1c1xmslz",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/178050567.jpg"],
+            "title": "Монитор 34\" Xiaomi Mi Curved Gaming Monitor",
+            "price": 485,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "xiaomi"
+        }, {
+            "id": "je1r13p0xckr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/57322367.jpg", "https://i1.rozetka.ua/promotions/constructors/2074/2074368.png"],
+            "title": "Монитор 23\" Asus VC239HE-W (90LM01E2-B03470)",
+            "price": 3800,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "r5u52e43qrkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/11444172.jpg"],
+            "title": "Монитор 24\" BenQ Zowie XL2411P (9H.LGPLB.QBE/9H.LGPLB.QPE)",
+            "price": 6500,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "benq"
+        }, {
+            "id": "w73oaydowenkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/178050370.jpg"],
+            "title": "Монитор 23.8\" BenQ GW2475H (9H.LFELA.TBE)",
+            "price": 3800,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "benq"
+        }, {
+            "id": "83untvwqsidkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/178050401.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/178050403.jpg"],
+            "title": "Монитор 24\" BenQ Zowie XL2411K (9H.LJPLB.QBE)",
+            "price": 7200,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "benq"
+        }, {
+            "id": "ffgk9pwx9yjkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/63300018.jpg"],
+            "title": "Монитор 23.8\" Benq GW2480E Black (9H.LHELA.CBE/9H.LHELB.CBE) + встроенные колонки 2х1 Вт, HDMI кабель в комлекте",
+            "price": 4000,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "benq"
+        }, {
+            "id": "az1ovdsjng7kr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/178058442.jpg"],
+            "title": "Монитор 27\" BenQ PD2705Q (9H.LJELA.TBE)",
+            "price": 14200,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "benq"
+        }, {
+            "id": "r5pyc7y91djkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/73891904.jpg"],
+            "title": "Монитор 27\" Dell S2721DGFA (210-AXRQ)",
+            "price": 6900,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "qea8wdar4zkkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/26649277.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/26649310.jpg"],
+            "title": "Монитор 23.8\" Dell E2420H Black (210-ATTS)",
+            "price": 3800,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "uz2lnvfkq5kr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/12330253.jpg"],
+            "title": "Монитор 23\" Dell P2319H Black (210-APWT)",
+            "price": 5300,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "3xaz1nx5a9lkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/26635597.jpg"],
+            "title": "Монитор 24.1\" Dell P2421 Black (210-AWLE)",
+            "price": 6900,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "4l150fmw7yekr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/9559719.jpg"],
+            "title": "Монитор 23.8\" Dell E2421HN Black (210-AXMC)",
+            "price": 3900,
+            "category": "monitors",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "0y9ksratv6akr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/178060660.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/178060662.jpg"],
+            "title": "Ноутбук Acer Aspire 7 A715-75G-51ZW (NH.Q88EU.00P) Charcoal Black",
+            "price": 1099,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "acer"
+        }, {
+            "id": "cvr29caokhhkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/25101152.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/25101161.jpg"],
+            "title": "Ноутбук Acer Nitro 5 AN515-55-56WH (NH.Q7PEU.00L) Obsidian Black Суперцена!!!",
+            "price": 28999,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "acer"
+        }, {
+            "id": "k9hb29sfeekr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/24790127.jpg"],
+            "title": "Ноутбук Acer Aspire 7 A715-75G-57LR (NH.Q87EU.006) Charcoal Black",
+            "price": 22500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "acer"
+        }, {
+            "id": "4g0lv7ii7ytkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/30872664.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/30872671.jpg", "https://content1.rozetka.com.ua/goods_tags/images/original/187290948.png"],
+            "title": "Ноутбук Apple MacBook Air 13\" M1 256GB 2020 (MGND3) Gold",
+            "price": 33999,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "apple"
+        }, {
+            "id": "f4zo7g5nb4okr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/119503415.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/119503486.jpg", "https://content1.rozetka.com.ua/goods_tags/images/original/187290948.png"],
+            "title": "Ноутбук Apple MacBook Pro 16\" 512GB 2019 (MVVL2) Silver",
+            "price": 81000,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "apple"
+        }, {
+            "id": "g9amcjezcmkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/24373314.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/24373327.jpg", "https://content1.rozetka.com.ua/goods_tags/images/original/187290948.png"],
+            "title": "Ноутбук Apple MacBook Pro 13\" A2251 Retina 1TB 2020 (MWP82) Silver",
+            "price": 70999,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "apple"
+        }, {
+            "id": "b6rae36v8vvkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/169147176.jpg"],
+            "title": "Ноутбук Apple MacBook Pro 13\" M1 512GB 2020 (Z11C000Z3) Custom Space Gray",
+            "price": 51999,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "apple"
+        }, {
+            "id": "nyvu7xbonwfkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/175329117.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/175329129.jpg"],
+            "title": "Ноутбук Apple MacBook Air 13\" M1 512GB 2020 (Z124001DD) Custom Space Gray",
+            "price": 48500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "apple"
+        }, {
+            "id": "st0auucse2ikr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/27122440.jpg"],
+            "title": "Ноутбук Asus ROG Strix G15 G512LI-HN058 (90NR0381-M01630) Black",
+            "price": 25500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "n03aecr0qrokr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/191836868.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/191836880.jpg"],
+            "title": "Ноутбук Asus VivoBook 15 X513EA-BQ409 (90NB0SG4-M05090) Black",
+            "price": 22000,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "7m3ixctumiwkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/192276490.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/192276498.jpg"],
+            "title": "Ноутбук Asus Laptop M515UA-BQ387 (90NB0U11-M05340) Slate Grey",
+            "price": 21000,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "ypyszmjg7okr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/172755042.jpg"],
+            "title": "Ноутбук Asus ZenBook UX425EA-BM295 (90NB0SM1-M07340) Pine Grey + фирменный чехол",
+            "price": 27000,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "wx7ch9y9dvnkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/180781181.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/180781173.jpg"],
+            "title": "Ноутбук Asus ROG Strix G15 G513QE-HN029 (90NR05I2-M00950) Eclipse Gray",
+            "price": 36500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "ur7ngd675jckr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/163134380.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/163134233.jpg"],
+            "title": "Ноутбук Dell Vostro 14 3400 (N4011VN3400EMEA01_i5XeW) Accent Black",
+            "price": 25999,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "0p2cm6tmha3kr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/167648554.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/167648555.jpg"],
+            "title": "Ноутбук Dell Vostro 15 3501 (N6503VN3501EMEA01_2105_UBU) Black",
+            "price": 16500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "cjcqnurj2tkkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/173835446.jpg"],
+            "title": "Ноутбук Dell Latitude 7300 (N034L730013EMEA_U) Black",
+            "price": 18500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "mz3plkehdaakr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/28982516.jpg"],
+            "title": "Ноутбук Dell Latitude 9410 (N199L941014ERC_W10) Gray",
+            "price": 15500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "dell"
+        }, {
+            "id": "4rtmbvjt2lekr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/186616819.jpg"],
+            "title": "Ноутбук Lenovo IdeaPad 3 15IGL05 (81WQ000PRA) Business Black",
+            "price": 12500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "lenovo"
+        }, {
+            "id": "y3cvcnkzvklkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/75254690.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/180803645.jpg"],
+            "title": "Ноутбук Lenovo ThinkPad X1 Carbon (7th Gen) (20QESCNN00) Black",
+            "price": 12999,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "lenovo"
+        }, {
+            "id": "dev7j3c71h5kr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/190172493.jpg"],
+            "title": "Ноутбук Lenovo V15-IGL (82C30027RA) Iron Grey",
+            "price": 9500,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "lenovo"
+        }, {
+            "id": "sgmj070kykkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/159696413.jpg"],
+            "title": "Ноутбук Lenovo IdeaPad Gaming 3 15ARH05 (82EY00G4RA) Chameleon Blue",
+            "price": 25999,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "lenovo"
+        }, {
+            "id": "487jzxlrawzkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/173824234.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/173824235.jpg"],
+            "title": "Ноутбук Lenovo V14-ADA (82C600DERA) Iron Grey",
+            "price": 8300,
+            "category": "laptops",
+            "isWished": false,
+            "brand": "lenovo"
+        }, {
+            "id": "ibr8c2zb1sokr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/183166007.jpg"],
+            "title": "MSI PCI-Ex GeForce RTX 3080 Ti Suprim X 12G 12GB GDDR6X (384bit) (1770/19000) (HDMI, 3 x DisplayPort) (RTX 3080 Ti Suprim X 12G)",
+            "price": 59000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "msi"
+        }, {
+            "id": "q2dbkr3tvmnkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/183751632.jpg"],
+            "title": "MSI PCI-Ex GeForce RTX 3070 Ti Suprim X 8G 8GB GDDR6X (256bit) (1860/19000) (HDMI, 3 x DisplayPort) (GeForce RTX 3070 Ti SUPRIM X 8G)",
+            "price": 34000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "msi"
+        }, {
+            "id": "n9az8i4xq8pkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/31428478.jpg"],
+            "title": "MSI PCI-Ex GeForce RTX 3090 GAMING X TRIO 24GB GDDR6X (384bit) (HDMI, 3 x DisplayPort) (RTX 3090 GAMING X TRIO 24G)",
+            "price": 80000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "msi"
+        }, {
+            "id": "zhj76jx6tyskr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big/178039424.jpg"],
+            "title": "MSI PCI-Ex GeForce RTX 3090 Suprim X 24G 24GB GDDR6X (384bit) (1860/19500) (HDMI, 3 x DisplayPort) (GeForce RTX 3090 SUPRIM X 24G)",
+            "price": 85000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "msi"
+        }, {
+            "id": "s7px0qga2sqkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big/183176087.jpg"],
+            "title": "MSI PCI-Ex GeForce RTX 3080 Ti Gaming X Trio 12GB GDDR6X (384bit) (1770/19000) (HDMI, 3 x DisplayPort) (RTX 3080 Ti GAMING X TRIO 12G)",
+            "price": 57000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "msi"
+        }, {
+            "id": "kub9vo3i3hckr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/165161262.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/165161264.jpg"],
+            "title": "Asus PCI-Ex Radeon RX 6700 XT Dual 12GB GDDR6 (192bit) (HDMI, 3 x DisplayPort) (DUAL-RX6700XT-12G)",
+            "price": 28000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "mnrntvpjpupkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/31959984.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/31960011.jpg"],
+            "title": "Asus PCI-Ex GeForce RTX 3080 TUF Gaming OC 10GB GDDR6X (320bit) (1440/19000) (2 x HDMI, 3 x DisplayPort) (TUF-RTX3080-O10G-GAMING)",
+            "price": 64500,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "3ocfw1ogjgmkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/11015939.jpg"],
+            "title": "Asus PCI-Ex GeForce GT 1030 Low Profile 2GB GDDR5 (64bit) (1228/6008) (DVI, HDMI) (GT1030-SL-2G-BRK)",
+            "price": 2700,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "hz8t1sdb8zckr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/11574305.png", "https://content2.rozetka.com.ua/goods/images/big_tile/11574254.jpg"],
+            "title": "Asus PCI-Ex GeForce GT 1030 Low Profile 2GB GDDR5 (64Bit) (1228/6008) (DisplayPort, HDMI) (GT1030-2G-BRK)",
+            "price": 3200,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "1prg5ur76hekr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/165166278.jpg"],
+            "title": "Asus PCI-Ex Radeon RX 6700 XT ROG Strix Gaming OC Edition 12GB GDDR6 (192bit) (HDMI, 3 x DisplayPort) (ROG-STRIX-RX6700XT-O12G-GAMING)",
+            "price": 28000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "njwul0o0jflkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/106869010.png"],
+            "title": "Gigabyte PCI-Ex GeForce GT 710 2048MB GDDR5 (64bit) (954/5010) (DVI, HDMI, VGA) (GV-N710D5-2GIL)",
+            "price": 1600,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "zuh5j9ufw8ekr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/52297421.jpg"],
+            "title": "Gigabyte PCI-Ex GeForce GT 1030 Silent Low Profile 2GB GDDR5 (64bit) (1227/6008) (DVI, HDMI) (GV-N1030SL-2GL)",
+            "price": 3200,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "ciky7xll23qkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/166184495.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/166184496.jpg"],
+            "title": "Gigabyte PCI-Ex GeForce RTX 3080 Turbo 10G 10GB GDDR6X (320bit) (1710/19000) (2 х HDMI, 3 x DisplayPort) (GV-N3080TURBO-10GD)",
+            "price": 67000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "kf6yp1y9b1kr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/164911188.jpg"],
+            "title": "Gigabyte PCI-Ex Radeon RX 6700 XT Eagle 12G 12GB GDDR6 (192bit) (16000) (2 x HDMI, 2 x DisplayPort) (GV-R67XTEAGLE-12GD)",
+            "price": 46000,
+            "category": "video_cards",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "nn4cnayf9ydkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/10596469.jpg"],
+            "title": "Мышь Logitech M185 Wireless Grey (910-002238/910-002235)",
+            "price": 449,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "logitech"
+        }, {
+            "id": "pvcgzow2cvkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/22396992.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/22396985.jpg"],
+            "title": "Мышь Logitech MX Master 3 Advanced Wireless/Bluetooth Black (910-005710)",
+            "price": 3500,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "logitech"
+        }, {
+            "id": "pwejup7xxxkkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/29839978.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/29839907.jpg"],
+            "title": "Мышь Logitech M190 Wireless Charcoal (910-005905)",
+            "price": 272,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "logitech"
+        }, {
+            "id": "t4avvtm9ubkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/10595271.jpg", "https://content1.rozetka.com.ua/goods/images/big_tile/10595259.jpg"],
+            "title": "Мышь Logitech M235 Wireless Red (910-002496)",
+            "price": 759,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "logitech"
+        }, {
+            "id": "rs5qwg5kmfkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/12241056.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/12241028.jpg"],
+            "title": "Мышь Logitech B330 Silent Plus Wireless Black (910-004913)",
+            "price": 1099,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "logitech"
+        }, {
+            "id": "nzbg9f3lqfkkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/133140519.jpg"],
+            "title": "Мишка ASUS ROG Pugio II Wireless Black (90MP01L0-BMUA00)",
+            "price": 2400,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "orthyzvwufkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/162209995.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/162209997.jpg"],
+            "title": "Мышь ASUS ROG Chakram Core Optical USB Gaming (90MP01T0-BMUA00)",
+            "price": 2999,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "28fhdt2goc2kr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/163141787.jpg"],
+            "title": "Мишка ASUS TUF M5 USB Grey (90MP0140-B0UA00)",
+            "price": 648,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "xahkxgvo6w8kr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/188787884.jpg"],
+            "title": "Провідна миша ASUS TUF Gaming M3 Grey Gaming (90MP01J0-B0UA00)",
+            "price": 699,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "goryotq715akr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/188787998.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/188788013.jpg"],
+            "title": "Безпровідна миша ASUS ROG Strix Impact II Wireless Black (90MP01P0-BMUA00)",
+            "price": 2000,
+            "category": "computer_mouse",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "yqsnlxiashjkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/177613234.jpg"],
+            "title": "Gigabyte Aorus NVMe Gen4 7000s SSD 1TB M.2 2280 NVMe PCIe 4.0 x4 3D NAND TLC (GP-AG70S1TB)",
+            "price": 605,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "dhc1efgwt9jkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/12327056.jpg"],
+            "title": "Gigabyte SSD 120GB 2.5\" SATAIII NAND TLC (GP-GSTFS31120GNTD)",
+            "price": 809,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "a19s1ncr1qwkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/18738560.jpg"],
+            "title": "Gigabyte 128GB M.2 2280 NVMe PCIe 3.0 x4 NAND TLC (GP-GSM2NE3128GNTD)",
+            "price": 889,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "hgvvg4ii0odkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/16529609.jpg"],
+            "title": "Gigabyte Aorus NVMe Gen4 SSD 1TB M.2 2280 NVMe PCIe 4.0 x4 3D NAND TLC (GP-ASM2NE6100TTTD)",
+            "price": 4900,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "gigabyte"
+        }, {
+            "id": "1hp5j5gm2geikr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/13467872.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/13467913.jpg"],
+            "title": "Kingston SSD HyperX Fury 3D 240GB 2.5\" SATAIII TLC (KC-S44240-6F)",
+            "price": 1088,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "kingston"
+        }, {
+            "id": "g1i5cvs5ivkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/16355467.jpg", "https://content.rozetka.com.ua/goods/images/big_tile/16355360.jpg"],
+            "title": "Kingston SSD HyperX Fury 3D 480GB 2.5\" SATAIII 3D NAND TLC (KC-S44480-6F)",
+            "price": 1850,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "kingston"
+        }, {
+            "id": "athlkfyqjqikr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/13467707.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/13467728.jpg"],
+            "title": "Kingston SSD HyperX Fury 3D 120GB 2.5\" SATAIII TLC (KC-S44120-6F)",
+            "price": 869,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "kingston"
+        }, {
+            "id": "9q71sd4okt9kr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/169540018.jpg"],
+            "title": "Kingston NV1 500GB NVMe M.2 2280 PCIe 3.0 x4 (SNVS/500G)",
+            "price": 3860,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "kingston"
+        }, {
+            "id": "pl8fxwgth9kr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/169540365.jpg"],
+            "title": "Kingston NV1 1TB NVMe M.2 2280 PCIe 3.0 x4 (SNVS/1000G)",
+            "price": 2600,
+            "category": "ssd",
+            "isWished": false,
+            "brand": "kingston"
+        }, {
+            "id": "4xij1knhfoukr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/59014647.jpg"],
+            "title": "Звуковая карта Asus Xonar U7 MKII",
+            "price": 2670,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "54mt82049zlkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/10687036.jpg", "https://content2.rozetka.com.ua/goods/images/big_tile/10687086.jpg"],
+            "title": "Звуковая карта Asus Strix Soar (90YB00J0-M1UA00)",
+            "price": 2400,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "js87e5b8rcqkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/46331525.jpg"],
+            "title": "Звуковая карта Asus Xonar U5",
+            "price": 1800,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "bp7satk44xrkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/21329737.jpg"],
+            "title": "Звуковая карта Asus Xonar SE (90YA00T0-M0UA00)",
+            "price": 1600,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "w9jfp9mn1zdkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big/21329571.jpg"],
+            "title": "Звуковая карта Asus Xonar U7 MKII (90YB00KB-M0UC00)",
+            "price": 2800,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "asus"
+        }, {
+            "id": "qcufkbjnewkr9kjkav",
+            "images": ["https://content.rozetka.com.ua/goods/images/big_tile/10975625.jpg"],
+            "title": "Адаптер Dynamode USB C-Media 108 7.1 каналов, алюминий Черная (USB-SOUND7-ALU black)",
+            "price": 126,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "dynamode"
+        }, {
+            "id": "1vua8ay0yrzkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/10679253.jpg"],
+            "title": "Адаптер Dynamode C-Media 108 (7.1) USB-SOUND7 White",
+            "price": 65,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "dynamode"
+        }, {
+            "id": "ypntx0h5pqkkr9kjkav",
+            "images": ["https://content1.rozetka.com.ua/goods/images/big_tile/44905372.jpg"],
+            "title": "Адаптер Dynamode USB C-Media 108 7.1 каналов, алюминий Серебристая (USB-SOUND7-ALU silver)",
+            "price": 126,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "dynamode"
+        }, {
+            "id": "9ye984f8xqtkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/10608119.jpg"],
+            "title": "Адаптер Dynamode 3D Sound (5.1) USB-SoundCard 2.0 Gray",
+            "price": 53,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "dynamode"
+        }, {
+            "id": "pveyhdit33mkr9kjkav",
+            "images": ["https://content2.rozetka.com.ua/goods/images/big_tile/10608061.jpg"],
+            "title": "Адаптер Dynamode C-Media 108 (7.1) USB-SOUND7",
+            "price": 58,
+            "category": "sound_cards",
+            "isWished": false,
+            "brand": "dynamode"
+        }
+    ],
+
+    "categories": [
+        "Smartphones",
+        "Tablets",
+        "Laptops",
+        "Monitors",
+        "Video cards",
+        "Computer mouse",
+        "SSD",
+        "Sound cards"
+    ],
+
+    "brands": [
+        "Acer",
+        "Apple",
+        "Asus",
+        "BenQ",
+        "Dell",
+        "Dynamode",
+        "Gigabyte",
+        "Kingston",
+        "Lenovo",
+        "Logitech",
+        "MSI",
+        "Samsung",
+        "Xiaomi"
+    ]
+}
